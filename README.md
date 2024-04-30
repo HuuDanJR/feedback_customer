@@ -21,8 +21,15 @@ image design:
 
 image in app:
 
+**vertical**
 
 ![Simulator Screenshot - iPad Pro (12 9-inch) (6th generation) - 2024-04-30 at 11 04 38](https://github.com/HuuDanJR/feedback_customer/assets/40542971/eeeece2b-1c8d-4b4b-89bc-c46a8ee276c8)
 ![Simulator Screenshot - iPad Pro (12 9-inch) (6th generation) - 2024-04-30 at 11 04 31](https://github.com/HuuDanJR/feedback_customer/assets/40542971/5d19bf9f-4794-4750-98a4-d065a95f53e7)
 ![Simulator Screenshot - iPad Pro (12 9-inch) (6th generation) - 2024-04-30 at 11 04 19](https://github.com/HuuDanJR/feedback_customer/assets/40542971/663636a4-0560-49fd-be28-936cbccf5d66)
 ![Simulator Screenshot - iPad Pro (12 9-inch) (6th generation) - 2024-04-30 at 10 59 30](https://github.com/HuuDanJR/feedback_customer/assets/40542971/9029c455-91f1-4aed-9818-18248b4003d6)
+
+**horizontal**
+![Simulator Screenshot - iPad Pro (12 9-inch) (6th generation) - 2024-04-30 at 11 30 43](https://github.com/HuuDanJR/feedback_customer/assets/40542971/38993100-3d47-4246-bcc6-c584c6d05d5a)
+![Simulator Screenshot - iPad Pro (12 9-inch) (6th generation) - 2024-04-30 at 11 30 37](https://github.com/HuuDanJR/feedback_customer/assets/40542971/c26187b9-08fa-4c1b-8e8c-c6eed2e3917d)
+![Simulator Screenshot - iPad Pro (12 9-inch) (6th generation) - 2024-04-30 at 11 30 29](https://github.com/HuuDanJR/feedback_customer/assets/40542971/1625f68f-6937-459d-9c89-433101b71d57)
+
